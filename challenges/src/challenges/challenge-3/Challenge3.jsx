@@ -1,7 +1,9 @@
 import { createElement } from "react";
 import { createRoot } from "react-dom/client";
 
-const Challenge2 = () => {
+// This is an old way to do things, JSX is the syntactic sugar of this thing
+
+const Challenge3 = () => {
     const root = createRoot(document.getElementById('root'))
     const renderedThing = root.render(
         createElement("h1", null, "Hello from createElement!")
@@ -10,4 +12,4 @@ const Challenge2 = () => {
     return renderedThing
 };
     
-export default Challenge2;
+export default Challenge3;
