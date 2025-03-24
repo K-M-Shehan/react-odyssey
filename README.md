@@ -5,15 +5,15 @@
 ## 📌 Why This Repo?
 
 This repository serves as:
-✅ A structured roadmap for my React learning.
-✅ A portfolio showcasing my projects and problem-solving skills.
-✅ A way to track my progress and stay accountable.
+* ✅ A structured roadmap for my React learning.
+* ✅ A portfolio showcasing my projects and problem-solving skills.
+* ✅ A way to track my progress and stay accountable.
 
 ## 🏗️ Projects
 
 ## 🏆 Challenges
 
-📝 Progress: `0 / 120 completed`
+📝 Progress: `2 / 120 completed`
 
 ## 📅 Progress Tracking
 
