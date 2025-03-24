@@ -13,7 +13,7 @@ This repository serves as:
 
 ## 🏆 Challenges
 
-📝 Progress: `2 / 120 completed`
+📝 Progress: `6 / 120 completed`
 
 ## 📅 Progress Tracking
 
@@ -29,6 +29,7 @@ I will update this repo frequently as I complete challenges and projects.
 
    + Other tools/libraries as needed
 
-## 📢 Feedback & Contributions
+## 📢 Source
 
-If you have suggestions, feedback, or want to collaborate, feel free to open an issue or reach out! 🚀
+All the projects and challenges were originally part of this course:
++ https://github.com/scrimba/learn-react/
