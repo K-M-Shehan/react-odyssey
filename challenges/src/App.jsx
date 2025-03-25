@@ -6,6 +6,7 @@ import Challenge4 from "./challenges/challenge-4/Challenge4";
 import Challenge5 from "./challenges/challenge-5/Challenge5";
 import Challenge6 from "./challenges/challenge-6/Challenge6";
 import Challenge7 from "./challenges/challenge-7/Challenge7";
+import Challenge8 from "./challenges/challenge-8/Challenge8";
 
 const challenges = [
   { id: 1, name: "Challenge 1", component: <Challenge1 /> },
@@ -15,6 +16,7 @@ const challenges = [
   { id: 5, name: "Challenge 5", component: <Challenge5 /> },
   { id: 6, name: "Challenge 6", component: <Challenge6 /> },
   { id: 7, name: "Challenge 7", component: <Challenge7 /> },
+  { id: 8, name: "Challenge 8", component: <Challenge8 /> },
 ];
 
 function App() {
