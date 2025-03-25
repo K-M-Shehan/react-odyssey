@@ -49,7 +49,7 @@ function Page() {
     )
 }
 
-const Challenge10 = () => {
+const Challenge11 = () => {
     const root = createRoot(document.getElementById('root'))
 
     const renderedThing = root.render(
@@ -58,4 +58,4 @@ const Challenge10 = () => {
     return renderedThing
 };
     
-export default Challenge10;
+export default Challenge11;
