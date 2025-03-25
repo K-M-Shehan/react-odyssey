@@ -10,10 +10,11 @@ This repository serves as:
 * ✅ A way to track my progress and stay accountable.
 
 ## 🏗️ Projects
+* Project 1: ReactFacts app `In progress`
 
 ## 🏆 Challenges
 
-📝 Progress: `6 / 120 completed`
+📝 Progress: `10 / 120 completed`
 
 ## 📅 Progress Tracking
 
