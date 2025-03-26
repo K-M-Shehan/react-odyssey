@@ -10,7 +10,7 @@ This repository serves as:
 * ✅ A way to track my progress and stay accountable.
 
 ## 🏗️ Projects
-* Project 1: ReactFacts app `In progress`
+* Project 1: ReactFacts app `Completed`
 
 ## 🏆 Challenges
 

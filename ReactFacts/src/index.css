@@ -28,8 +28,24 @@ nav > span {
   font-weight: 700;
 }
 
+/**
+Challenge: Place the gray react logo in the background 
+
+Don't use an img element, but rather set it as the background-img of the main element.
+
+Hint: you'll need to use the following properties:
+  - background-image: url(...)
+  - background-repeat
+  - background-position
+
+(Or the shorthand background property with values for all those other properties)
+**/
+
 main {
   padding: 60px 30px;
+  background-image: url(/src/assets/react-logo-half.png);
+  background-repeat: no-repeat;
+  background-position: right 70%;
 }
 
 main > h1 {
@@ -45,4 +61,9 @@ main > ul {
 main > ul > li {
   margin-block: 20px;
   line-height: 19px;
+}
+
+main > ul > li::marker {
+  color:#61DAF8;
+  font-size: 1.5rem;
 }
