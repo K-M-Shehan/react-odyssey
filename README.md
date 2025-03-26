@@ -14,7 +14,7 @@ This repository serves as:
 
 ## 🏆 Challenges
 
-📝 Progress: `10 / 120 completed`
+📝 Progress: `14 / 120 completed`
 
 ## 📅 Progress Tracking
 
