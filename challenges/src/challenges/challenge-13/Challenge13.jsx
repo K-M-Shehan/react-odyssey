@@ -1,26 +1,12 @@
 import { createRoot } from "react-dom/client";
 import "./styles.css";
+import Header from "./Header"; // you can name this whatever you want
 
 /**
  * Challenge:
  * 
- * - Add a nav > ul > li (x3). The 3 items should say:
- *   "Pricing", "About", "Contact"
+ * Move the width style off the JSX and into CSS with a dedicated className on the img element, and change the width to 55px instead
  */
-function Header() {
-    return (
-        <header>
-            <img src="/src/assets/react.svg" width="40px" alt="React logo"/>
-            <nav>
-                <ul className="nav-list">
-                    <li>Pricing</li>
-                    <li>About</li>
-                    <li>Contact</li>
-                </ul>
-            </nav>
-        </header>
-    )
-}
 
 function MainContent() {
     return (
@@ -57,7 +43,7 @@ function Page() {
     )
 }
 
-const Challenge11 = () => {
+const Challenge12 = () => {
     const root = createRoot(document.getElementById('root'))
 
     const renderedThing = root.render(
@@ -66,4 +52,4 @@ const Challenge11 = () => {
     return renderedThing
 };
     
-export default Challenge11;
+export default Challenge12;

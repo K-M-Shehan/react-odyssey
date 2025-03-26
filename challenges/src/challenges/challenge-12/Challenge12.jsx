@@ -4,18 +4,19 @@ import "./styles.css";
 /**
  * Challenge:
  * 
- * - Add a nav > ul > li (x3). The 3 items should say:
- *   "Pricing", "About", "Contact"
+ * Using flexbox, line up the li s horizontally and put then inline with the React logo.
+ * 
+ * NOTE: for practice's sake, don't select any elements, but use classes for all styling
  */
 function Header() {
     return (
-        <header>
+        <header className="header">
             <img src="/src/assets/react.svg" width="40px" alt="React logo"/>
             <nav>
                 <ul className="nav-list">
-                    <li>Pricing</li>
-                    <li>About</li>
-                    <li>Contact</li>
+                    <li className="nav-list-item">Pricing</li>
+                    <li className="nav-list-item">About</li>
+                    <li className="nav-list-item">Contact</li>
                 </ul>
             </nav>
         </header>
@@ -57,7 +58,7 @@ function Page() {
     )
 }
 
-const Challenge11 = () => {
+const Challenge12 = () => {
     const root = createRoot(document.getElementById('root'))
 
     const renderedThing = root.render(
@@ -66,4 +67,4 @@ const Challenge11 = () => {
     return renderedThing
 };
     
-export default Challenge11;
+export default Challenge12;

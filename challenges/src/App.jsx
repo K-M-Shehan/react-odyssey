@@ -9,6 +9,10 @@ import Challenge7 from "./challenges/challenge-7/Challenge7";
 import Challenge8 from "./challenges/challenge-8/Challenge8";
 import Challenge9 from "./challenges/challenge-9/Challenge9";
 import Challenge10 from "./challenges/challenge-10/Challenge10";
+import Challenge11 from "./challenges/challenge-11/Challenge11";
+import Challenge12 from "./challenges/challenge-12/Challenge12";
+import Challenge13 from "./challenges/challenge-13/Challenge13";
+import Challenge14 from "./challenges/challenge-14/Challenge14";
 
 const challenges = [
   { id: 1, name: "Challenge 1", component: <Challenge1 /> },
@@ -21,6 +25,10 @@ const challenges = [
   { id: 8, name: "Challenge 8", component: <Challenge8 /> },
   { id: 9, name: "Challenge 9", component: <Challenge9 /> },
   { id: 10, name: "Challenge 10", component: <Challenge10 /> },
+  { id: 11, name: "Challenge 11", component: <Challenge11 /> },
+  { id: 12, name: "Challenge 12", component: <Challenge12 /> },
+  { id: 13, name: "Challenge 13", component: <Challenge13 /> },
+  { id: 14, name: "Challenge 14", component: <Challenge14 /> },
 ];
 
 function App() {
