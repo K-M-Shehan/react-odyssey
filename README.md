@@ -11,6 +11,7 @@ This repository serves as:
 
 ## 🏗️ Projects
 * Project 1: ReactFacts app `Completed`
+* Project 2: TravelJournal `In progress`
 
 ## 🏆 Challenges
 
